@@ -13,8 +13,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredevsec&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div> 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-                                                                                                                                            </div>
-          
