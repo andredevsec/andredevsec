@@ -2,7 +2,7 @@
 
 
 - 🔭  Estudante de Sistemas de informações 5º período
-- 🌱  Tenho interessem nas áreas Desenvolvimento web, backend e Segurança da Informação
+- 🌱  Tenho interesse nas áreas Desenvolvimento web, backend e Segurança da Informação
 <div align="center">
 
 
