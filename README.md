@@ -3,7 +3,7 @@
 ##
 
 
-- 🔭  Estudante de Sistemas de informações 5º período
+- 🔭  Estudante de Sistemas de informações 7º período
 - 🌱  Tenho interesse nas áreas Desenvolvimento web, DevOps e Segurança da Informação
 <div aling="center">
 
