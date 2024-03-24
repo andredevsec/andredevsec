@@ -5,7 +5,7 @@
 
 - :man_student:  Estudante de Sistemas de informações 7º período pelo Instituto Federal do Sul de Minas.
 - 👨‍💻  Tenho interesse nas áreas Desenvolvimento web, DevOps e Segurança da Informação.
-- 💻 Atualmente sou estagiário na empres de segurança de dados E-trust.
+- 💻 Atualmente sou estagiário na empresa de segurança de dados E-trust.
 <div aling="center">
 
 ##
