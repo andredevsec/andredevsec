@@ -1,10 +1,11 @@
-### Bem Vindo ao meu Git!! Sou André Luiz👋
+### Bem Vindo ao meu Git!! Eu sou André Luiz 👋
 
 ##
 
 
-- 🔭  Estudante de Sistemas de informações 7º período
-- 🌱  Tenho interesse nas áreas Desenvolvimento web, DevOps e Segurança da Informação
+- :man_student:  Estudante de Sistemas de informações 7º período pelo Instituto Federal do Sul de Minas.
+- 👨‍💻  Tenho interesse nas áreas Desenvolvimento web, DevOps e Segurança da Informação.
+- 💻 Atualmente sou estagiário na empres de segurança de dados E-trust.
 <div aling="center">
 
 ##
@@ -34,6 +35,11 @@
   <img aling="center" alt="andreCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
   <img aling="center" alt="andreJavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+  <img aling="center" alt="andrePhp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+
+  <img aling="center" alt="andrePython" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">   
+  
   
 </div>
 
@@ -41,7 +47,6 @@
 
 <div style="display: inline_block"> <br> 
   <a href="https://www.youtube.com/@andredevsec" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"><a>
-  <a href="https://www.instagram.com/andreluizzzlima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href = "mailto:andredevsec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/andredevsec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
