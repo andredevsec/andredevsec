@@ -6,12 +6,9 @@
 - :man_student:  Estudante de Sistemas de informações 7º período pelo Instituto Federal do Sul de Minas.
 - 👨‍💻  Tenho interesse nas áreas Desenvolvimento web, DevOps e Segurança da Informação.
 - 💻 Atualmente sou estagiário na empresa de segurança de dados E-trust.
+  
 <div aling="center">
 
-##
-
-
-<https://github.com/andredevsec> 
                                 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredevsec&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 
