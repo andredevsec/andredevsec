@@ -9,7 +9,7 @@
 </div>
 
 ###
-<p align="center">Bem Vindo ao meu Git!! Eu sou André Luiz 👋</p>
+<p align="center">Bem Vindo ao meu Git!! Eu sou André 👋</p>
 
 ###
 
