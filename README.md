@@ -9,7 +9,7 @@
 </div>
 
 ###
-<p align="center">Bem Vindo ao meu Git!! Eu sou André 👋</p>
+<h3 align="center">Bem Vindo ao meu Git!! Eu sou André 👋</h3>
 
 ###
 
@@ -23,9 +23,9 @@
 
 ###
 
-<p align="center">
+<h4 align="center">
   Técnologias
-</p>
+</h4>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -55,9 +55,9 @@
 </div>
 
 ###
-<p align="center">
+<h4 align="center">
   Mídias de contato
-</p>
+</h4>
 <div align="center">
  <a href="https://www.linkedin.com/in/andredevsec/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
 <a href="https://www.youtube.com/@andredevsec" target="_blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
