@@ -14,11 +14,16 @@
 ###
 
 <p align="center">
-- :man_student:  Estudante de Sistemas de informações 7º período pelo Instituto Federal do Sul de Minas.</p>
-  <p align="center">
-- 👨‍💻  Tenho interesse nas áreas Desenvolvimento web, DevOps e Segurança da Informação.</p>
-    <p align="center">
-- 💻 Atualmente sou Analista de Implantação na empresa de segurança de dados E-trust.</p>
+- 🎓 Graduado em Sistemas de Informações pelo Instituto Federal do Sul de Minas.  
+<p align="center">
+- 👨‍💻 Tenho interesse nas áreas de Desenvolvimento Web, DevOps e Segurança da Informação.  
+</p>
+<p align="center">
+- 💻 Trabalho como Analista de Implantação na empresa de segurança de dados E-Trust.  
+</p>
+<p align="center">
+- 📚 Atualmente estou cursando Mestrado em Informática no Instituto Politécnico de Bragança, em Portugal.  
+</p>
 </p>
 
 ###
