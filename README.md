@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/andredevsec/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
@@ -9,27 +5,37 @@
 </div>
 
 ###
-<h3 align="center">Bem Vindo ao meu Git!! Eu sou André 👋</h3>
+<h3 align="center">Bem Vindo ao meu Git!! Eu sou André 👋
+<br> Welcome to my Git!! I'm André 👋
+</h3>
 
 ###
 
 <p align="center">
 - 🎓 Graduado em Sistemas de Informações pelo Instituto Federal do Sul de Minas.  
+<br> - 🎓 Graduated in Information Systems from the Federal Institute of Southern Minas.  
+</p>
+
 <p align="center">
 - 👨‍💻 Tenho interesse nas áreas de Desenvolvimento Web, DevOps e Segurança da Informação.  
+<br> - 👨‍💻 I am interested in the areas of Web Development, DevOps, and Information Security.  
 </p>
+
 <p align="center">
 - 💻 Trabalho como Analista de Implantação na empresa de segurança de dados E-Trust.  
+<br> - 💻 I work as an Implementation Analyst at the data security company E-Trust.  
 </p>
+
 <p align="center">
 - 📚 Atualmente estou cursando Mestrado em Informática no Instituto Politécnico de Bragança, em Portugal.  
+<br> - 📚 I am currently pursuing a Master's degree in Informatics at the Polytechnic Institute of Bragança, in Portugal.  
 </p>
-</p>
+
 
 ###
 
 <h4 align="center">
-  Técnologias
+  Técnologias | Technologies
 </h4>
 
 <div align="center">
@@ -61,7 +67,7 @@
 
 ###
 <h4 align="center">
-  Mídias de contato
+  Mídias de contato | Contact
 </h4>
 <div align="center">
  <a href="https://www.linkedin.com/in/andredevsec/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
